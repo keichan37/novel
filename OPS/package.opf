@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" xml:lang="ja" version="3.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+		<dc:title id="title" opf:file-as="ししょうしりーず">師匠シリーズ</dc:title>
+		<meta refines="#title" property="dcterms:title">師匠シリーズ</meta>
+		<meta refines="#title" property="file-as">ししょうしりーず</meta>
+		<dc:creator id="creator" opf:role="aut" opf:file-as="うに">ウニ</dc:creator>
+		<meta refines="#creator" property="dcterms:creator">ウニ</meta>
+		<meta refines="#creator" property="file-as">うに</meta>
+		<dc:publisher id="publisher">新潮文庫</dc:publisher>
+		<meta refines="#publisher" property="dcterms:publisher">新潮文庫</meta>
+		<dc:language id="pub-lang">ja</dc:language>
+		<meta refines="#pub-lang" property="dcterms:language">ja</meta>
+	</metadata>
+
+	<manifest>
+		<item id="vertical" href="css/vertical.css" media-type="text/css"/>
+		<item id="v_font" href="css/vertical_font.css" media-type="text/css"/>
+		<item id="v_text" href="css/vertical_text.css" media-type="text/css"/>
+		<item id="v_middle" href="css/vertical_middle.css" media-type="text/css"/>
+		<item id="v_image" href="css/vertical_image.css" media-type="text/css"/>
+		<item id="nav" properties="nav" href="xhtml/nav.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv64" href="xhtml/pixiv64.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+	</manifest>
+
+	<spine page-progression-direction="rtl" toc="ncx">
+		<itemref idref="secpixiv64" linear="yes"/>
+	</spine>
+
+
+</package>
