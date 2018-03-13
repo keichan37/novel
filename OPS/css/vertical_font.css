@@ -11,13 +11,3 @@ font-family: '@ＭＳ ゴシック','@MS Gothic',sans-serif !important;
 
 .b, .gtc { font-weight: bold; }
 .i { font-style: italic; }
-
-.combine {
-  text-combine: horizontal;
-  -webkit-text-combine: horizontal;
-  -epub-text-combine: horizontal;
-}
-
-p {
-  text-indent: 1em;
-}

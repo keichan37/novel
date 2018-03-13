@@ -1,6 +1,16 @@
 @charset "utf-8";
 @namespace "http://www.w3.org/1999/xhtml";
 
+/* 加筆分 */
+h1,
+h2,
+h3,
+h4,
+p {
+  font-size: 1em;
+  text-indent: 1em;
+}
+
 /** 縦書き用 ページ設定以外の基本部分 */
 p {
 text-align: justify;
@@ -188,6 +198,7 @@ border-left-width: 1px;
 /* 縦中横 */
 /* 外字画像と重ならない対策 ※有効にすると字下げ折り返し内で画面外にずれる */ 
 /*span.tcy { display: inline-block; }*/
+.combine,
 .tcy span {
 text-combine: horizontal;
 -webkit-text-combine: horizontal;
