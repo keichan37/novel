@@ -13,13 +13,25 @@
 		<navLabel>
 			<text>花</text>
 		</navLabel>
-    <content src="xhtml/pixiv64.xhtml"/>
+    <content src="xhtml/pixiv01.xhtml"/>
 	</navPoint>
 	<navPoint id="tocpixiv04" playOrder="4">
 		<navLabel>
 			<text>剣道の話</text>
 		</navLabel>
-    <content src="xhtml/pixiv64.xhtml"/>
+    <content src="xhtml/pixiv04.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv05" playOrder="5">
+		<navLabel>
+			<text>食べる</text>
+		</navLabel>
+    <content src="xhtml/pixiv05.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv06" playOrder="6">
+		<navLabel>
+			<text>Ｍ．Ｃ．Ｄ</text>
+		</navLabel>
+    <content src="xhtml/pixiv06.xhtml"/>
 	</navPoint>
 	<navPoint id="tocpixiv64" playOrder="64">
 		<navLabel>
@@ -38,6 +50,12 @@
 			<text>砂場</text>
 		</navLabel>
     <content src="xhtml/pixiv75.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv83" playOrder="83">
+		<navLabel>
+			<text>ホテル</text>
+		</navLabel>
+    <content src="xhtml/pixiv83.xhtml"/>
 	</navPoint>
 </navMap>
 </ncx>
