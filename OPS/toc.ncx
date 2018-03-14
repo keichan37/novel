@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
 <head>
-<meta name="dtb:uid" content="urn:uuid:cb9add41-1060-3404-acac-66f6dd61f812"/>
 <meta name="dtb:depth" content="1"/>
 <meta name="dtb:totalPageCount" content="0"/>
 <meta name="dtb:maxPageNumber" content="0"/>
@@ -16,11 +15,23 @@
 		</navLabel>
     <content src="xhtml/pixiv64.xhtml"/>
 	</navPoint>
+	<navPoint id="tocpixiv04" playOrder="4">
+		<navLabel>
+			<text>剣道の話</text>
+		</navLabel>
+    <content src="xhtml/pixiv64.xhtml"/>
+	</navPoint>
 	<navPoint id="tocpixiv64" playOrder="64">
 		<navLabel>
 			<text>幽霊物件</text>
 		</navLabel>
     <content src="xhtml/pixiv64.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv71" playOrder="71">
+		<navLabel>
+			<text>馬霊刀</text>
+		</navLabel>
+    <content src="xhtml/pixiv71.xhtml"/>
 	</navPoint>
 	<navPoint id="tocpixiv75" playOrder="75">
 		<navLabel>

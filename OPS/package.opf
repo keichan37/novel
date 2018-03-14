@@ -19,14 +19,18 @@
 		<item id="v_image" href="css/vertical_image.css" media-type="text/css"/>
 		<item id="nav" properties="nav" href="xhtml/nav.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv01" href="xhtml/pixiv01.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv04" href="xhtml/pixiv04.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv64" href="xhtml/pixiv64.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv71" href="xhtml/pixiv71.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv75" href="xhtml/pixiv75.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
 	</manifest>
 
 	<spine page-progression-direction="rtl" toc="ncx">
 		<itemref idref="secpixiv01" linear="yes"/>
+		<itemref idref="secpixiv04" linear="yes"/>
 		<itemref idref="secpixiv64" linear="yes"/>
+		<itemref idref="secpixiv71" linear="yes"/>
 		<itemref idref="secpixiv75" linear="yes"/>
 	</spine>
 
