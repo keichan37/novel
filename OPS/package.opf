@@ -22,6 +22,8 @@
 		<item id="secpixiv04" href="xhtml/pixiv04.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv05" href="xhtml/pixiv05.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv06" href="xhtml/pixiv06.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv07" href="xhtml/pixiv07.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv52" href="xhtml/pixiv52.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv64" href="xhtml/pixiv64.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv71" href="xhtml/pixiv71.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv75" href="xhtml/pixiv75.xhtml" media-type="application/xhtml+xml"/>
@@ -34,6 +36,8 @@
 		<itemref idref="secpixiv04" linear="yes"/>
 		<itemref idref="secpixiv05" linear="yes"/>
 		<itemref idref="secpixiv06" linear="yes"/>
+		<itemref idref="secpixiv07" linear="yes"/>
+		<itemref idref="secpixiv52" linear="yes"/>
 		<itemref idref="secpixiv64" linear="yes"/>
 		<itemref idref="secpixiv71" linear="yes"/>
 		<itemref idref="secpixiv75" linear="yes"/>

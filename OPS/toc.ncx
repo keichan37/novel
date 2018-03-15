@@ -33,6 +33,18 @@
 		</navLabel>
     <content src="xhtml/pixiv06.xhtml"/>
 	</navPoint>
+	<navPoint id="tocpixiv07" playOrder="6">
+		<navLabel>
+			<text>未</text>
+		</navLabel>
+    <content src="xhtml/pixiv07.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv52" playOrder="52">
+		<navLabel>
+			<text>溶接</text>
+		</navLabel>
+    <content src="xhtml/pixiv52.xhtml"/>
+	</navPoint>
 	<navPoint id="tocpixiv64" playOrder="64">
 		<navLabel>
 			<text>幽霊物件</text>
