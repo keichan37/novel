@@ -2,6 +2,19 @@
 @namespace "http://www.w3.org/1999/xhtml";
 
 /* 加筆分 */
+@font-face { 
+  font-family: 'FOT-DNPShueiMinPr6N';
+  font-style: normal;
+  font-weight: 300;
+  src:url("./font/FOT-DNPShueiMinPr6N-L.otf");
+}
+@font-face { 
+  font-family: 'FOT-DNPShueiMinPr6N';
+  font-style: normal;
+  font-weight: 700;
+  src:url("./font/FOT-DNPShueiMinPr6N-B.otf");
+}
+
 h1,
 h2,
 h3,
