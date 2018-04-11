@@ -6,13 +6,17 @@
   font-family: 'FOT-DNPShueiMinPr6N';
   font-style: normal;
   font-weight: 300;
-  src:url("./font/FOT-DNPShueiMinPr6N-L.otf");
+  src:url("../font/FOT-DNPShueiMinPr6N-L.otf");
 }
 @font-face { 
   font-family: 'FOT-DNPShueiMinPr6N';
   font-style: normal;
   font-weight: 700;
-  src:url("./font/FOT-DNPShueiMinPr6N-B.otf");
+  src:url("../font/FOT-DNPShueiMinPr6N-B.otf");
+}
+
+body {
+  font-family: 'FOT-DNPShueiMinPr6N';
 }
 
 h1,
