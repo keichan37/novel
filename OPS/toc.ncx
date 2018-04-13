@@ -45,6 +45,18 @@
 		</navLabel>
     <content src="xhtml/pixiv12.xhtml"/>
 	</navPoint>
+	<navPoint id="tocpixiv16" playOrder="16">
+		<navLabel>
+			<text>トランプ</text>
+		</navLabel>
+    <content src="xhtml/pixiv16.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv18" playOrder="18">
+		<navLabel>
+			<text>ペットの話</text>
+		</navLabel>
+    <content src="xhtml/pixiv18.xhtml"/>
+	</navPoint>
 	<navPoint id="tocpixiv21" playOrder="21">
 		<navLabel>
       <text>風の行方</text>
@@ -57,17 +69,47 @@
 		</navLabel>
     <content src="xhtml/pixiv26.xhtml"/>
 	</navPoint>
+	<navPoint id="tocpixiv30" playOrder="30">
+		<navLabel>
+      <text>桜雨</text>
+		</navLabel>
+    <content src="xhtml/pixiv30.xhtml"/>
+	</navPoint>
 	<navPoint id="tocpixiv37" playOrder="37">
 		<navLabel>
       <text>心霊写真</text>
 		</navLabel>
     <content src="xhtml/pixiv37.xhtml"/>
 	</navPoint>
+	<navPoint id="tocpixiv45" playOrder="45">
+		<navLabel>
+      <text>絵</text>
+		</navLabel>
+    <content src="xhtml/pixiv45.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv50" playOrder="50">
+		<navLabel>
+      <text>雲</text>
+		</navLabel>
+    <content src="xhtml/pixiv50.xhtml"/>
+	</navPoint>
 	<navPoint id="tocpixiv52" playOrder="52">
 		<navLabel>
 			<text>溶接</text>
 		</navLabel>
     <content src="xhtml/pixiv52.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv54" playOrder="54">
+		<navLabel>
+			<text>医者の話</text>
+		</navLabel>
+    <content src="xhtml/pixiv54.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv59" playOrder="59">
+		<navLabel>
+      <text>館</text>
+		</navLabel>
+    <content src="xhtml/pixiv59.xhtml"/>
 	</navPoint>
 	<navPoint id="tocpixiv64" playOrder="64">
 		<navLabel>
@@ -80,6 +122,12 @@
 			<text>握手</text>
 		</navLabel>
     <content src="xhtml/pixiv66.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv70" playOrder="70">
+		<navLabel>
+			<text>見えない男</text>
+		</navLabel>
+    <content src="xhtml/pixiv70.xhtml"/>
 	</navPoint>
 	<navPoint id="tocpixiv71" playOrder="71">
 		<navLabel>

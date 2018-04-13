@@ -24,12 +24,20 @@
 		<item id="secpixiv06" href="xhtml/pixiv06.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv07" href="xhtml/pixiv07.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv12" href="xhtml/pixiv12.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv16" href="xhtml/pixiv16.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv18" href="xhtml/pixiv18.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv21" href="xhtml/pixiv21.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv26" href="xhtml/pixiv26.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv30" href="xhtml/pixiv30.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv37" href="xhtml/pixiv37.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv45" href="xhtml/pixiv45.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv50" href="xhtml/pixiv50.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv52" href="xhtml/pixiv52.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv54" href="xhtml/pixiv54.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv59" href="xhtml/pixiv59.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv64" href="xhtml/pixiv64.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv66" href="xhtml/pixiv66.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv70" href="xhtml/pixiv70.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv71" href="xhtml/pixiv71.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv75" href="xhtml/pixiv75.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv78" href="xhtml/pixiv78.xhtml" media-type="application/xhtml+xml"/>
@@ -44,12 +52,20 @@
 		<itemref idref="secpixiv06" linear="yes"/>
 		<itemref idref="secpixiv07" linear="yes"/>
 		<itemref idref="secpixiv12" linear="yes"/>
+		<itemref idref="secpixiv16" linear="yes"/>
+		<itemref idref="secpixiv18" linear="yes"/>
 		<itemref idref="secpixiv21" linear="yes"/>
 		<itemref idref="secpixiv26" linear="yes"/>
+		<itemref idref="secpixiv30" linear="yes"/>
 		<itemref idref="secpixiv37" linear="yes"/>
+		<itemref idref="secpixiv45" linear="yes"/>
+		<itemref idref="secpixiv50" linear="yes"/>
 		<itemref idref="secpixiv52" linear="yes"/>
+		<itemref idref="secpixiv54" linear="yes"/>
+		<itemref idref="secpixiv59" linear="yes"/>
 		<itemref idref="secpixiv64" linear="yes"/>
 		<itemref idref="secpixiv66" linear="yes"/>
+		<itemref idref="secpixiv70" linear="yes"/>
 		<itemref idref="secpixiv71" linear="yes"/>
 		<itemref idref="secpixiv75" linear="yes"/>
 		<itemref idref="secpixiv78" linear="yes"/>
