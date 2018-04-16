@@ -28,6 +28,17 @@ p {
   text-indent: 1em;
 }
 
+figure {
+  -epub-writing-mode: horizontal-tb;
+  margin: 0 2em 2em 2em;
+}
+
+figure figcaption {
+  text-align: center;
+  font-size: 0.8em;
+}
+
+
 /** 縦書き用 ページ設定以外の基本部分 */
 p {
 text-align: justify;

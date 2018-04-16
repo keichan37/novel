@@ -63,6 +63,12 @@
 		</navLabel>
     <content src="xhtml/pixiv21.xhtml"/>
 	</navPoint>
+	<navPoint id="tocpixiv23" playOrder="23">
+		<navLabel>
+      <text>保育園</text>
+		</navLabel>
+    <content src="xhtml/pixiv23.xhtml"/>
+	</navPoint>
 	<navPoint id="tocpixiv26" playOrder="26">
 		<navLabel>
       <text>連想Ⅰ</text>
