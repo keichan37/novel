@@ -231,6 +231,7 @@ border-left-width: 1px;
 text-combine: horizontal;
 -webkit-text-combine: horizontal;
 -epub-text-combine: horizontal;
+font-family: "游明朝 Light","YuMincho-Light","ヒラギノ明朝 ProN W3", "HiraMinProN-W3", serif;
 }
 
 /* ルビ内改行無し (Kindleで縦中横でずれるため) */
