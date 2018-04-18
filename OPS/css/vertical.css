@@ -3,20 +3,28 @@
 
 /* 加筆分 */
 @font-face { 
-  font-family: 'MinIWA';
+  font-family: 'Ryumin';
   font-style: normal;
   font-weight: 300;
-  src:url("../font/MinIWA-Lt-V3.ttf");
+  src:url("../font/A-OTF-RyuminPro-Light.otf");
+  unicode-range: U+0000-FFFF;
 }
 @font-face { 
-  font-family: 'MinIWA';
+  font-family: 'Ryumin';
+  font-style: normal;
+  font-weight: 300;
+  src:url("../font/A-OTF-RyuminStd-Light-KO.otf");
+  unicode-range: U+3040-30FF;
+}
+@font-face { 
+  font-family: 'Ryumin';
   font-style: normal;
   font-weight: 700;
-  src:url("../font/MinIWA-Bd-V3.ttf");
+  src:url("../font/A-OTF-RyuminPro-Bold.otf");
 }
 
 body {
-  font-family: 'MinIWA';
+  font-family: 'Ryumin';
 }
 
 h1,
@@ -231,7 +239,7 @@ border-left-width: 1px;
 text-combine: horizontal;
 -webkit-text-combine: horizontal;
 -epub-text-combine: horizontal;
-font-family: "游明朝 Light","YuMincho-Light","ヒラギノ明朝 ProN W3", "HiraMinProN-W3", serif;
+text-combine-upright: digits 3;
 }
 
 /* ルビ内改行無し (Kindleで縦中横でずれるため) */
