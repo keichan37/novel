@@ -9,7 +9,19 @@
 	<text>師匠シリーズ</text>
 </docTitle>
 <navMap>
-	<navPoint id="tocpixiv01" playOrder="1">
+	<navPoint id="toc2ch52" playOrder="52">
+		<navLabel>
+			<text>貯水池</text>
+		</navLabel>
+    <content src="xhtml/2ch52.xhtml"/>
+	</navPoint>
+	<navPoint id="toc2ch85" playOrder="52">
+		<navLabel>
+			<text>もういいかい</text>
+		</navLabel>
+    <content src="xhtml/2ch85.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv01" playOrder="85">
 		<navLabel>
 			<text>花</text>
 		</navLabel>
@@ -86,6 +98,12 @@
       <text>心霊写真</text>
 		</navLabel>
     <content src="xhtml/pixiv37.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv42" playOrder="42">
+		<navLabel>
+      <text>死滅回遊</text>
+		</navLabel>
+    <content src="xhtml/pixiv42.xhtml"/>
 	</navPoint>
 	<navPoint id="tocpixiv45" playOrder="45">
 		<navLabel>
