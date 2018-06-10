@@ -9,19 +9,25 @@
 	<text>師匠シリーズ</text>
 </docTitle>
 <navMap>
-	<navPoint id="toc2ch52" playOrder="52">
+	<navPoint id="toc2ch52" playOrder="252">
 		<navLabel>
 			<text>貯水池</text>
 		</navLabel>
     <content src="xhtml/2ch52.xhtml"/>
 	</navPoint>
-	<navPoint id="toc2ch85" playOrder="52">
+	<navPoint id="toc2ch77" playOrder="277">
+		<navLabel>
+			<text>先生</text>
+		</navLabel>
+    <content src="xhtml/2ch77.xhtml"/>
+	</navPoint>
+	<navPoint id="toc2ch85" playOrder="285">
 		<navLabel>
 			<text>もういいかい</text>
 		</navLabel>
     <content src="xhtml/2ch85.xhtml"/>
 	</navPoint>
-	<navPoint id="tocpixiv01" playOrder="85">
+	<navPoint id="tocpixiv01" playOrder="1">
 		<navLabel>
 			<text>花</text>
 		</navLabel>
@@ -176,6 +182,12 @@
 			<text>ホテル</text>
 		</navLabel>
     <content src="xhtml/pixiv83.xhtml"/>
+	</navPoint>
+	<navPoint id="tocpixiv85" playOrder="85">
+		<navLabel>
+			<text>秋の日々</text>
+		</navLabel>
+    <content src="xhtml/pixiv85.xhtml"/>
 	</navPoint>
 </navMap>
 </ncx>

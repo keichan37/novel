@@ -19,6 +19,7 @@
 		<item id="v_image" href="css/vertical_image.css" media-type="text/css"/>
 		<item id="nav" properties="nav" href="xhtml/nav.xhtml" media-type="application/xhtml+xml"/>
 		<item id="sec2ch52" href="xhtml/2ch52.xhtml" media-type="application/xhtml+xml"/>
+		<item id="sec2ch77" href="xhtml/2ch77.xhtml" media-type="application/xhtml+xml"/>
 		<item id="sec2ch85" href="xhtml/2ch85.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv01" href="xhtml/pixiv01.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv04" href="xhtml/pixiv04.xhtml" media-type="application/xhtml+xml"/>
@@ -47,11 +48,13 @@
 		<item id="secpixiv75" href="xhtml/pixiv75.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv78" href="xhtml/pixiv78.xhtml" media-type="application/xhtml+xml"/>
 		<item id="secpixiv83" href="xhtml/pixiv83.xhtml" media-type="application/xhtml+xml"/>
+		<item id="secpixiv85" href="xhtml/pixiv85.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
 	</manifest>
 
 	<spine page-progression-direction="rtl" toc="ncx">
 		<itemref idref="sec2ch52" linear="yes"/>
+		<itemref idref="sec2ch77" linear="yes"/>
 		<itemref idref="sec2ch85" linear="yes"/>
 		<itemref idref="secpixiv01" linear="yes"/>
 		<itemref idref="secpixiv04" linear="yes"/>
@@ -79,6 +82,7 @@
 		<itemref idref="secpixiv75" linear="yes"/>
 		<itemref idref="secpixiv78" linear="yes"/>
 		<itemref idref="secpixiv83" linear="yes"/>
+		<itemref idref="secpixiv85" linear="yes"/>
 	</spine>
 
 
