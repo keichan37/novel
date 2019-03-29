@@ -9,6 +9,12 @@
 	<text>師匠シリーズ</text>
 </docTitle>
 <navMap>
+	<navPoint id="toc" playOrder="0">
+		<navLabel>
+			<text>目次/text>
+		</navLabel>
+    <content src="xhtml/nav.xhtml"/>
+	</navPoint>
 	<navPoint id="toc2ch52" playOrder="252">
 		<navLabel>
 			<text>貯水池</text>

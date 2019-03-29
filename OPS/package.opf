@@ -57,6 +57,7 @@
 	</manifest>
 
 	<spine page-progression-direction="rtl" toc="ncx">
+		<itemref idref="nav" linear="yes"/>
 		<itemref idref="sec2ch52" linear="yes"/>
 		<itemref idref="sec2ch77" linear="yes"/>
 		<itemref idref="sec2ch85" linear="yes"/>

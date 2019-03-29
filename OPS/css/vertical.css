@@ -27,6 +27,14 @@ body {
   font-family: 'Ryumin';
 }
 
+#toc :link    { color: #000; background: transparent; }
+#toc :visited { color: #000; background: transparent; }
+#toc a:active { color: #000; background: transparent; }
+#toc li {padding:0 .25em 0 0;}
+#toc li a:hover {text-decoration:none;}
+#toc li.chapter {list-style:none; line-height:1.75em;}
+#toc nav#landmarks { display:none; }
+
 ruby rt {
   speak: none;
 }
