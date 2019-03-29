@@ -27,6 +27,10 @@ body {
   font-family: 'Ryumin';
 }
 
+ruby rt {
+  speak: none;
+}
+
 h1,
 h2,
 h3,
@@ -34,6 +38,12 @@ h4,
 p {
   font-size: 1em;
   text-indent: 1em;
+}
+h1 a,
+h2 a,
+h3 a,
+h4 a {
+  text-decoration: none;
 }
 
 figure {
@@ -52,9 +62,9 @@ p {
 text-align: justify;
 margin: 0;
 }
-:link { color: #00C; background: transparent; }
-:visited { color: #609; background: transparent; }
-a:active { color: #C00; background: transparent; }
+:link { color: #000; background: transparent; }
+:visited { color: #000; background: transparent; }
+a:active { color: #000; background: transparent; }
 a:link img, a:visited img { border-style: none; }
 
 span.img {

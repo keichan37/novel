@@ -189,5 +189,11 @@
 		</navLabel>
     <content src="xhtml/pixiv85.xhtml"/>
 	</navPoint>
+	<navPoint id="tocpixiv86" playOrder="86">
+		<navLabel>
+      <text>落し物</text>
+		</navLabel>
+    <content src="xhtml/pixiv86.xhtml"/>
+	</navPoint>
 </navMap>
 </ncx>
