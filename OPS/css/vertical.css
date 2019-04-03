@@ -27,6 +27,11 @@ body {
   font-family: 'Ryumin';
 }
 
+#cover-img {
+  height: 100%;
+  width: auto;
+}
+
 #toc :link    { color: #000; background: transparent; }
 #toc :visited { color: #000; background: transparent; }
 #toc a:active { color: #000; background: transparent; }

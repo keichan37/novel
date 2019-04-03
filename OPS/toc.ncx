@@ -11,6 +11,12 @@
 <navMap>
 	<navPoint id="toc" playOrder="0">
 		<navLabel>
+      <text>表紙</text>
+		</navLabel>
+    <content src="xhtml/coverpg.xhtml"/>
+	</navPoint>
+	<navPoint id="toc" playOrder="1">
+		<navLabel>
 			<text>目次/text>
 		</navLabel>
     <content src="xhtml/nav.xhtml"/>
@@ -33,7 +39,7 @@
 		</navLabel>
     <content src="xhtml/2ch85.xhtml"/>
 	</navPoint>
-	<navPoint id="tocpixiv01" playOrder="1">
+	<navPoint id="tocpixiv01" playOrder="3">
 		<navLabel>
 			<text>花</text>
 		</navLabel>

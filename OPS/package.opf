@@ -20,6 +20,8 @@
 		<item id="v_text" href="css/vertical_text.css" media-type="text/css"/>
 		<item id="v_middle" href="css/vertical_middle.css" media-type="text/css"/>
 		<item id="v_image" href="css/vertical_image.css" media-type="text/css"/>
+    <item id="img1" href="cover-img.jpg"  media-type="image/jpeg" properties="cover-image"/>
+    <item id="cover" href="xhtml/coverpg.xhtml" media-type="application/xhtml+xml"/>
 		<item id="nav" properties="nav" href="xhtml/nav.xhtml" media-type="application/xhtml+xml"/>
 		<item id="sec2ch52" href="xhtml/2ch52.xhtml" media-type="application/xhtml+xml"/>
 		<item id="sec2ch77" href="xhtml/2ch77.xhtml" media-type="application/xhtml+xml"/>
@@ -57,6 +59,7 @@
 	</manifest>
 
 	<spine page-progression-direction="rtl" toc="ncx">
+    <itemref idref="cover" liner="yes"/>
 		<itemref idref="nav" linear="yes"/>
 		<itemref idref="sec2ch52" linear="yes"/>
 		<itemref idref="sec2ch77" linear="yes"/>
